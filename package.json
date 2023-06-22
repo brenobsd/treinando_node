@@ -1,0 +1,14 @@
+{
+  "name": "pergunta-resposta-nodejs",
+  "version": "1.0.0",
+  "description": "Pacote para testar o NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "BrenoBorges",
+  "license": "ISC"
+}
