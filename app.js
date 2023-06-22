@@ -11,8 +11,7 @@ const port = 3000;
 const server = http.createServer((req, res) => {
   
 //Pegar a pergunta na url
-console.log(req.url);
-const params = queryString.parse(url.parse(req.url),true).search;
+const params = queryString.parse(url.parse(req.url, true).search);
 console.log(params);
 //Verificar a pergunta e escolher uma resposta
 //Retornar a resposta escolhida

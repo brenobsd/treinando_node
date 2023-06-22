@@ -10,5 +10,8 @@
     "url"
   ],
   "author": "BrenoBorges",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^8.1.0"
+  }
 }
